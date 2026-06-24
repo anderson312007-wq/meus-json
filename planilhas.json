@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1780853100280,
+    "endereco": "Av. Olegário Maciel, 70 - Centro, Belo Horizonte - MG, 30180-110",
+    "observacao": "AUTO GIRO CENTRO"
+  },
+  {
+    "id": 1780853061576,
+    "endereco": "R. Caldas da Raínha, 1061 - São Francisco, Belo Horizonte - MG, 31255-180",
+    "observacao": "AUTO GIRO SÃO FRANCISCO"
+  },
+  {
+    "id": 1780853265192,
+    "endereco": "Av. Aggeo Pio Sobrinho, 400 - Buritis, Belo Horizonte - MG, 30575-834",
+    "observacao": "DOMINOS BURITIS"
+  },
+  {
+    "id": 1780853135368,
+    "endereco": "R. Alberto Cintra, 137 - União, Belo Horizonte - MG, 31160-370",
+    "observacao": "DOMINOS CIDADE NOVA"
+  },
+  {
+    "id": 1780853201192,
+    "endereco": "R. Pará de Minas, 117 - Padre Eustáquio, Belo Horizonte - MG, 30730-440",
+    "observacao": "DOMINOS PADRE EUSTAQUIO"
+  },
+  {
+    "id": 1780853221272,
+    "endereco": "Av. do Contorno, 9163 - Prado, Belo Horizonte - MG, 30110-063",
+    "observacao": "DOMINOS PRADO"
+  },
+  {
+    "id": 1780853241544,
+    "endereco": "Av. Raja Gabáglia, 4951 - Cidade Jardim, Belo Horizonte - MG, 30360-663",
+    "observacao": "DOMINOS RAJA"
+  },
+  {
+    "id": 1780853170240,
+    "endereco": "Av. Getúlio Vargas, 710 - Funcionários - Savassi, Belo Horizonte - MG, 30112-020",
+    "observacao": "DOMINOS SAVASSI"
+  },
+  {
+    "id": 1780853474592,
+    "endereco": "R. Paraíba, 9 - Santa Efigênia, Belo Horizonte - MG, 30130-140",
+    "observacao": "MEDICAMENTOS ESPECIAIS - 3º ANDAR"
+  },
+  {
+    "id": 1780853309048,
+    "endereco": "Alameda Oscar Niemeyer, 405 - Vila da Serra, Nova Lima - MG, 34000-000",
+    "observacao": "OLEGARIO AL. DA SERRA"
+  },
+  {
+    "id": 1780853332512,
+    "endereco": "Av. Prudente de Morais, 520 - Cidade Jardim, Belo Horizonte - MG, 30380-002",
+    "observacao": "OLEGARIO JARDINS"
+  },
+  {
+    "id": 1780853361168,
+    "endereco": "R. Lavras, 150 - São Pedro, Belo Horizonte - MG, 30330-010",
+    "observacao": "OLEGARIO LAVRAS"
+  },
+  {
+    "id": 1780853396272,
+    "endereco": "Av. Olegário Maciel, 1748 - Lourdes, Belo Horizonte - MG, 30180-111",
+    "observacao": "OLEGARIO MATRIZ"
+  },
+  {
+    "id": 1780853581576,
+    "endereco": "R. Rio Negro, 502 - Prado, Belo Horizonte - MG, 30411-208",
+    "observacao": "PIZZAIOLLO BARROCA"
+  },
+  {
+    "id": 1780853552024,
+    "endereco": "Rua Progresso, 951 - Padre Eustáquio, Belo Horizonte - MG, 30720-320",
+    "observacao": "PIZZARONE"
+  },
+  {
+    "id": 1780853533784,
+    "endereco": "Av. Luiz Paulo Franco, 421 - Belvedere, Belo Horizonte - MG, 30320-570",
+    "observacao": "UDON BELVEDERE"
+  },
+  {
+    "id": 1780853506016,
+    "endereco": "Av. do Contorno, 7315 - Lourdes, Belo Horizonte - MG, 30110-047",
+    "observacao": "UDON MERCURY"
+  },
+  {
+    "id": 1780853444632,
+    "endereco": "Av. Churchil, 36 - Santa Efigênia, Belo Horizonte - MG, 30260-080",
+    "observacao": "UNIMED AD"
+  }
+]
