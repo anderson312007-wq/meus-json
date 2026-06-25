@@ -19,22 +19,6 @@
       "distanciaAcumulada": 0
     },
     {
-      "id": 1781890717802.2173,
-      "endereco": "Rua Conceicao do Mato Dentro, 308, Sao Luiz, Belo Horizonte, MG",
-      "observacao": "21 OURO PRETO",
-      "dataCadastro": "19/06/2026, 14:38:37",
-      "status": "PENDENTE",
-      "recebedor": "",
-      "matricula": "",
-      "latitude": -19.8729725,
-      "longitude": -43.9780252,
-      "distancia": 8.64,
-      "tempoPercurso": 13,
-      "tempoComFinalizacao": 0,
-      "tempoAcumulado": 0,
-      "distanciaAcumulada": 0
-    },
-    {
       "id": 1781890718210.607,
       "endereco": "Rua Padre Eustaquio, 2208, Padre Eustaquio, Belo Horizonte, MG",
       "observacao": "30 PADRE EUSTAQUIO",
