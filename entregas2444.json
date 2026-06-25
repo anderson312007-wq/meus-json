@@ -51,22 +51,6 @@
       "distanciaAcumulada": 0
     },
     {
-      "id": 1781890719492.1018,
-      "endereco": "Av. Abilio Machado, 1830, Dom Bosco, Belo Horizonte, MG",
-      "observacao": "66 ALIPIO DE MELO",
-      "dataCadastro": "19/06/2026, 14:38:39",
-      "status": "PENDENTE",
-      "recebedor": "",
-      "matricula": "",
-      "latitude": -19.9084384,
-      "longitude": -43.9986218,
-      "distancia": 10.62,
-      "tempoPercurso": 16,
-      "tempoComFinalizacao": 0,
-      "tempoAcumulado": 0,
-      "distanciaAcumulada": 0
-    },
-    {
       "id": 1781890719792.3347,
       "endereco": "Av. dos Engenheiros, 560, Castelo, Belo Horizonte, MG",
       "observacao": "85 CASTELO",
