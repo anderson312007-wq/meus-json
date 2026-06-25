@@ -1487,7 +1487,7 @@
   {
     "id": 1781320043609,
     "endereco": "Rua Geraldo Faria de Souza, 715, Sagrada Família, Belo Horizonte",
-    "observacao": "CBTA"
+    "observacao": "CBTA - COOPERATIVA BRASILEIRA DE TRANSPORTES AUTÔNOMOS "
   },
   {
     "id": 1781319287659,
@@ -1541,12 +1541,17 @@
   },
   {
     "id": 1781896751831,
-    "endereco": "Av. Afonso Vaz de Melo, 640 - Barreiro, Belo Horizonte - MG, 30640-070",
+    "endereco": "AV. AFONSO VAZ DE MELO, 640, BARREIRO, BELO HORIZONTE",
     "observacao": "356 - VIA BARREIRO"
   },
   {
     "id": 1781896992679,
     "endereco": "Praça Belarmino de Souza, Parque, 122 - Parque Xangri-Lá, Contagem - MG, 32187-610",
     "observacao": "335 - XANGRILA"
+  },
+  {
+    "id": 1782239019609,
+    "endereco": "Av. Dep. Álvaro Antônio, 447 - Indústrias I (Barreiro), Belo Horizonte - MG, 30610-530",
+    "observacao": "381 RESERVA MALL"
   }
 ]
