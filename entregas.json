@@ -18,21 +18,6 @@
       "distanciaAcumulada": 0
     },
     {
-      "id": 1781732721931.4773,
-      "endereco": "Av. Artur da Silva Bernardes, 446, Horto, Betim, MG",
-      "observacao": "83 VILA SOLEIL",
-      "dataCadastro": "17/06/2026, 18:45:21",
-      "status": "PENDENTE",
-      "recebedor": "",
-      "matricula": "",
-      "latitude": -19.954098,
-      "longitude": -44.1963613,
-      "tempoPercurso": 0,
-      "tempoComFinalizacao": 0,
-      "tempoAcumulado": 0,
-      "distanciaAcumulada": 0
-    },
-    {
       "id": 1781732723286.399,
       "endereco": "32041-390 Contagem, MG",
       "observacao": "106 CONTAGEM",
