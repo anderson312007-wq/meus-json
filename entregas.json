@@ -33,21 +33,6 @@
       "distanciaAcumulada": 0
     },
     {
-      "id": 1781732722299.0906,
-      "endereco": "Rua Marte, 790, Jardim Riacho das Pedras, Contagem, MG",
-      "observacao": "101 RIACHO",
-      "dataCadastro": "17/06/2026, 18:45:22",
-      "status": "PENDENTE",
-      "recebedor": "",
-      "matricula": "",
-      "latitude": -19.9651362,
-      "longitude": -44.0587744,
-      "tempoPercurso": 0,
-      "tempoComFinalizacao": 0,
-      "tempoAcumulado": 0,
-      "distanciaAcumulada": 0
-    },
-    {
       "id": 1781732723286.399,
       "endereco": "32041-390 Contagem, MG",
       "observacao": "106 CONTAGEM",
