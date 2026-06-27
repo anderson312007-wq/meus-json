@@ -19,22 +19,6 @@
       "distanciaAcumulada": 0
     },
     {
-      "id": 1782529162991.1775,
-      "endereco": "Av. Teresa Cristina, 2350, Padre Eustaquio, Belo Horizonte, MG",
-      "observacao": "58 TEREZA CRISTINA",
-      "dataCadastro": "26/06/2026, 23:59:22",
-      "status": "PENDENTE",
-      "recebedor": "",
-      "matricula": "",
-      "latitude": -19.9234665,
-      "longitude": -43.9772222,
-      "distancia": 22.06,
-      "tempoPercurso": 34,
-      "tempoComFinalizacao": 0,
-      "tempoAcumulado": 0,
-      "distanciaAcumulada": 0
-    },
-    {
       "id": 1782529163406.0889,
       "endereco": "Av. Professor Mario Werneck, 1340, Estoril, Belo Horizonte, MG",
       "observacao": "59 ESTORIL",
