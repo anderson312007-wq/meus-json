@@ -1356,7 +1356,7 @@
   },
   {
     "id": 1781134145921,
-    "endereco": "Praça dos Trabalhadores, 97 - Cidade Industrial, Contagem - MG, 32210-240",
+    "endereco": "40, 32220-460 Contagem",
     "observacao": "312 PRACA DOS TRABALHADORES"
   },
   {
@@ -1726,7 +1726,7 @@
   },
   {
     "id": 1782597370081,
-    "endereco": "TRES MIL E SENTENTA E QUATRO 390 PAULO VI BELO HORIZONTE MG",
+    "endereco": "Rua Tres Mil e Setenta e Quatro n° 390 - Paulo VI, Belo Horizonte - MG",
     "observacao": "360 PARQUE REAL"
   },
   {
@@ -1778,5 +1778,15 @@
     "id": 1782598246385,
     "endereco": "ERNESTO MATIOLI 1091 JARIDM BELA VISTA LAVRAS MG",
     "observacao": "376 BELA VISTA"
+  },
+  {
+    "id": 1782601688945,
+    "endereco": "AV PARANA 910 SÃO JOSE DIVINOPOLIS",
+    "observacao": "301 PARANA"
+  },
+  {
+    "id": 1782602007955,
+    "endereco": "AV CESARIO ALVIM 5650 MARILEUSA UBERLANDIA MG",
+    "observacao": "366 UBERLANDIA"
   }
 ]
