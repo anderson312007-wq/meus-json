@@ -1355,11 +1355,6 @@
     "observacao": "304 IGARAPE"
   },
   {
-    "id": 1781134145921,
-    "endereco": "40, 32220-460 Contagem",
-    "observacao": "312 PRACA DOS TRABALHADORES"
-  },
-  {
     "id": 1781403706615,
     "endereco": "Av. Thales Chagas, 546 - Parque Jardim Itaú, Vespasiano - MG, 33200-000",
     "observacao": "315 THALES CHAGAS"
@@ -1621,7 +1616,7 @@
   },
   {
     "id": 1782596527068,
-    "endereco": "MONSENHORA JOAO RIDRIGUES 40 INDUSTRIAL CONTAGEM MG",
+    "endereco": "40, 32220-460 Contagem",
     "observacao": "312 PRAÇA DOS TRABALHADORES"
   },
   {
