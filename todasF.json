@@ -1605,11 +1605,6 @@
     "observacao": "307 DIMANTINA"
   },
   {
-    "id": 1782596288796,
-    "endereco": "AV VILAINHO 1260 PARQUE SÃO PEDRO BELO HORIZONTE",
-    "observacao": "308 VILARINHO"
-  },
-  {
     "id": 1782596310616,
     "endereco": "AV DOS ANDRADAS 1260 CENTRO JUIZ DE FORA",
     "observacao": "309 MARIO PROCOPIO"
@@ -1788,5 +1783,10 @@
     "id": 1782602007955,
     "endereco": "AV CESARIO ALVIM 5650 MARILEUSA UBERLANDIA MG",
     "observacao": "366 UBERLANDIA"
+  },
+  {
+    "id": 1782613293455,
+    "endereco": "Rua Modesto Carvalho de Araújo, 674 - Belvedere, Belo Horizonte - MG, 30320-410",
+    "observacao": "362 MODESTO ARAÚJO"
   }
 ]
