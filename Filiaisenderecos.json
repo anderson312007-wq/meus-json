@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1780809395968,
+    "endereco": "R. Curitiba, 327, Centro, Belo Horizonte - MG",
+    "observacao": "01 MATRIZ"
+  },
+  {
+    "id": 1780809481051,
+    "endereco": "Rua Curitiba, 729, Centro, Belo Horizonte, MG",
+    "observacao": "02 IBATE"
+  },
+  {
+    "id": 1781054843195,
+    "endereco": "Av. Augusto de Lima, 744, Centro, Belo Horizonte, MG",
+    "observacao": "03 MERCADO"
+  },
+  {
+    "id": 1780810945483,
+    "endereco": "Rua da Bahia, 1070, Centro, Belo Horizonte, MG",
+    "observacao": "05 CASSAO"
+  },
+  {
+    "id": 1780965906076,
+    "endereco": "Av. Afonso Pena, 2700, Centro, Belo Horizonte, MG",
+    "observacao": "07 AVENIDA"
+  },
+  {
+    "id": 1780966362801,
+    "endereco": "Rodovia BR-040 Km 688, Morada Nova de Minas, Contagem, MG",
+    "observacao": "09 CEASA"
+  },
+  {
+    "id": 1781055954330,
+    "endereco": "Av. do Contorno, 6115, Sao Pedro, Belo Horizonte, MG",
+    "observacao": "10 SAVASSI"
+  },
+  {
+    "id": 1780965960460,
+    "endereco": "Av. Visc. de Ibituruna, 235, Barreiro, Belo Horizonte, MG",
+    "observacao": "12 BARREIRO"
+  },
+  {
+    "id": 1781055436871,
+    "endereco": "Av. Prudente de Morais, 1000, Cidade Jardim, Belo Horizonte, MG",
+    "observacao": "13 PRUDENTE MORAIS"
+  },
+  {
+    "id": 1780966845580,
+    "endereco": "Av. Joao Cesar de Oliveira, 2600, Eldorado, Contagem, MG",
+    "observacao": "14 ELDORADO"
+  },
+  {
+    "id": 1781056565068,
+    "endereco": "Rua Padre Pedro Pinto, 824, Venda Nova, Belo Horizonte, MG",
+    "observacao": "15 VENDA NOVA"
+  },
+  {
+    "id": 1780967079826,
+    "endereco": "Rua Andre Cavalcanti, 222, Gutierrez, Belo Horizonte, MG",
+    "observacao": "16 GUTIERREZ"
+  },
+  {
+    "id": 1781054890043,
+    "endereco": "Av. Cristiano Machado, 4000, Uniao, Belo Horizonte, MG",
+    "observacao": "17 MINAS SHOPPING"
+  },
+  {
+    "id": 1781056210951,
+    "endereco": "Rua do Uruguai, 752, Sion, Belo Horizonte, MG",
+    "observacao": "18 SION"
+  },
+  {
+    "id": 1780965804285,
+    "endereco": "Av. Americo Vespucio, 1271, Aparecida, Belo Horizonte, MG",
+    "observacao": "19 AMERICO VESPUCIO"
+  },
+  {
+    "id": 1780966484599,
+    "endereco": "Rua Cel. Pedro Paulo Penido, 128, Cidade Nova, Belo Horizonte, MG",
+    "observacao": "20 CIDADE NOVA"
+  },
+  {
+    "id": 1781055031521,
+    "endereco": "Rua Conceicao do Mato Dentro, 308, Sao Luiz, Belo Horizonte, MG",
