@@ -1566,7 +1566,7 @@
   },
   {
     "id": 1782596113944,
-    "endereco": "PRACA WENCESLAU BRAZ 145 CENTRO ITAJUBA MG",
+    "endereco": "PRAÇA WENCESLAU BRAZ 145 CENTRO ITAJUBA MG",
     "observacao": "299 ITAJUBA"
   },
   {
@@ -1582,7 +1582,7 @@
   {
     "id": 1782596206323,
     "endereco": "RUA DR RIBEIRO DA LUZ, 217 CENTRO SÃO LOURENÇO MG",
-    "observacao": "305 SÃO LOURENCO"
+    "observacao": "305 SÃO LOURENÇO"
   },
   {
     "id": 1782596228636,
@@ -1612,7 +1612,7 @@
   {
     "id": 1782596527068,
     "endereco": "40, 32220-460 Contagem",
-    "observacao": "312 PRACA DOS TRABALHADORES"
+    "observacao": "312 PRAÇA DOS TRABALHADORES"
   },
   {
     "id": 1782596552053,
@@ -1641,7 +1641,7 @@
   },
   {
     "id": 1782596877068,
-    "endereco": "AV ANTONIO ABRAAO CARAM 252 SAO JOSE BELO HORZIZONTE MG",
+    "endereco": "AV ANTONIO ABRAAO CARAM 252 SÃO JOSE BELO HORZIZONTE MG",
     "observacao": "321 ABRAAO CARAM"
   },
   {
@@ -1818,5 +1818,10 @@
     "id": 1783093119656,
     "endereco": "Avenida Fleming 510 ouro preto Belo Horizonte",
     "observacao": "262 FLEMING"
+  },
+  {
+    "id": 1783986050044,
+    "endereco": "Rua Joaquim José 715 fonte grande Contagem",
+    "observacao": "289 FONTE GRANDE"
   }
 ]
