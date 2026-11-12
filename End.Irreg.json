@@ -145,8 +145,508 @@
     "observacao": "RODOVIA:\tBR-381 FERNAO DIAS, 850, CHACARA, BETIM, 32670368\tStratura Asfaltos S/A"
   },
   {
-    "id": 1794455378345,
-    "endereco": "https://maps.app.goo.gl/1JasM9gh5Rpzj7Go9",
-    "observacao": "RODOVIA:\tBR-381 FERNAO DIAS, 850, CHACARA, BETIM, 32670368\tStratura Asfaltos S/A"
+    "id": 1794490569763,
+    "endereco": "https://maps.app.goo.gl/oDGh9SNKkEFR6WDn6",
+    "observacao": "RUA:\tC, 211, CASA, INDEPENDENCIA, BELO HORIZONTE, 30666640\tR. Pastora Maria Adriana, 211"
+  },
+  {
+    "id": 1794490586738,
+    "endereco": "https://maps.app.goo.gl/xdGvvDgzA64FDE6cA",
+    "observacao": "RUA:\tCABO FRIO, 82, SAO MATEUS, CONTAGEM, 32180660"
+  },
+  {
+    "id": 1794490634650,
+    "endereco": "https://maps.app.goo.gl/fogbGaG7Vffv6bUHA",
+    "observacao": "RUA:\tCandeias, 208, casa , Eldorado, CONTAGEM, 3231534\tESQUINA COM A RUA SANTA ISABEL"
+  },
+  {
+    "id": 1794490645370,
+    "endereco": "https://maps.app.goo.gl/gJ9FdVa9duz17ju37",
+    "observacao": "ALEMDA:\tCannes, 777, Riviera, NOVA LIMA, 34007116"
+  },
+  {
+    "id": 1794490663114,
+    "endereco": "https://maps.app.goo.gl/foAqVpvRy49bwL8dA",
+    "observacao": "RUA:\tCinco, 25, Galpão , Chácara Novo Horizonte, CONTAGEM, 32185590"
+  },
+  {
+    "id": 1794490676026,
+    "endereco": "https://maps.app.goo.gl/t7fESqcmFdwcpu1N7",
+    "observacao": "AVENIDA:\tCOLETORA ARTUR TRINDADE, 532, CASA A, SENHORA DE FATIMA, BETIM, 32672230\tAO LADO DO RESTAURANTE BOTTIJA GRILL"
+  },
+  {
+    "id": 1794490687914,
+    "endereco": "https://maps.app.goo.gl/UFyuWSAacLwe1zH59",
+    "observacao": "RUA:\tConceição Rosa Lima, 25, AP 205, Angola, BETIM, 32604140"
+  },
+  {
+    "id": 1794490705690,
+    "endereco": "https://maps.app.goo.gl/B2N7GsD1BGgyFTn27",
+    "observacao": "AVENIDA:\tCORONEL BENJAMIM GUIMARAES, 744, AP 102, INDUSTRIAL, CONTAGEM, 32235000"
+  },
+  {
+    "id": 1794490716890,
+    "endereco": "https://maps.app.goo.gl/16B5qzmNSNYRzpDdA",
+    "observacao": "AVENIDA:\tCRISTAL, 510, APTO 201, JARDIM RIACHO DAS PEDRAS, CONTAGEM, 32241390"
+  },
+  {
+    "id": 1794490729218,
+    "endereco": "https://maps.app.goo.gl/kmCBC1Ty4S2HfyzW7",
+    "observacao": "RUA:\tDA DIVISA, 72, CASA, CONJUNTO HABITACIONAL JALILA CONCEICAO PEDROSA, BETIM, 32672450\tCasa De Carnes Brum"
+  },
+  {
+    "id": 1794490741081,
+    "endereco": "https://maps.app.goo.gl/d66Xhsb1xatJycvs6",
+    "observacao": "RUA:\tdas Contendas, 0, 0, Chácaras Campestre, CONTAGEM, 32184010"
+  },
+  {
+    "id": 1794490755089,
+    "endereco": "https://maps.app.goo.gl/4ZQv9QMLT9cqmnwo9",
+    "observacao": "AVENIDA:\tdas Orquidéas, 7, PortãoAzul, Jardim das Alterosas - 2ª Seção, BETIM, 32673242"
+  },
+  {
+    "id": 1794490770689,
+    "endereco": "https://maps.app.goo.gl/dmvqJrAd8GgPdLMs5",
+    "observacao": "VIA:\tde Acesso Chácaras Campo do Meio, 1, Fabrica, Chácaras Reunidas Santa Terezinha, CONTAGEM, 3 Forno de Minas"
+  },
+  {
+    "id": 1794490783433,
+    "endereco": "https://maps.app.goo.gl/xzTtERq9n8AqQcMG7",
+    "observacao": "RUA:\tDE BEIRUTE, 1008, DUQUE DE CAXIAS, BETIM, 32673494\tEM FRENTE AO 1097"
+  },
+  {
+    "id": 1794490797657,
+    "endereco": "https://maps.app.goo.gl/mmndekE7eYEVdduj6",
+    "observacao": "RUA:\tDE DUBLIN, 180, CASA, DUQUE DE CAXIAS, BETIM, 32673492"
+  },
+  {
+    "id": 1794490808033,
+    "endereco": "https://maps.app.goo.gl/EMsbgcPd1SPLtHeq6",
+    "observacao": "RUA:\tDEZ, 353, FORTE PEC, KENNEDY, CONTAGEM, 32145130"
+  },
+  {
+    "id": 1794490818809,
+    "endereco": "https://maps.app.goo.gl/wK39sgHoP8ricrUB9",
+    "observacao": "RUA:\tDEZESSEIS, 238, SANTA HELENA, CONTAGEM, 32015010\tEM FRENTE AO NÚMERO 150"
+  },
+  {
+    "id": 1794490830593,
+    "endereco": "https://maps.app.goo.gl/riWt6XyupReuGFSk7",
+    "observacao": "AVENIDA:\tDILSON DE OLIVEIRA, 123, CASA, ALVORADA, CONTAGEM, 32041590\tDO LADO DO NÚMERO 192"
+  },
+  {
+    "id": 1794490844881,
+    "endereco": "https://maps.app.goo.gl/qZurEuFxiiqC5ogDA",
+    "observacao": "RUA:\tDinal, 300, Caiçaras, BELO HORIZONTE, 30775230\tFINAL DA RUA SEM SAÍDA"
+  },
+  {
+    "id": 1794490856753,
+    "endereco": "https://maps.app.goo.gl/QTTrrdu5Y93yw3Zz8",
+    "observacao": "RUA:\tDois, 110, Do Comércio, CONTAGEM, 32152004"
+  },
+  {
+    "id": 1794490867521,
+    "endereco": "https://maps.app.goo.gl/8oqkcJsJqjxPDM5D7",
+    "observacao": "RUA:\tDOIS, 700, VILA DAS FLORES, BETIM, 32605500\tSJ Materiais de construções"
+  },
+  {
+    "id": 1794490879817,
+    "endereco": "https://maps.app.goo.gl/UX1gn933vkUYsxLF7",
+    "observacao": "AVENIDA:\tDom João VI, 1782, Casa, Palmeiras, BELO HORIZONTE, 30575460\tBARBEARIA BRASIl"
+  },
+  {
+    "id": 1794490897392,
+    "endereco": "https://maps.app.goo.gl/CRaHrm38MfyxoTvLA",
+    "observacao": "RUA:\tdos Luxemburgueses, 974, Flamengo, CONTAGEM, 32241130\tESQUINA COM A MONSENHOR MESSICAS"
+  },
+  {
+    "id": 1794490908728,
+    "endereco": "https://maps.app.goo.gl/WCPdrEpcAMezpP8P8",
+    "observacao": "RUA:\tEFIGENIO SALES VITOR, 33, CASA, MADRE GERTRUDES, BELO HORIZONTE, 30518280"
+  },
+  {
+    "id": 1794490920248,
+    "endereco": "https://maps.app.goo.gl/sZDL24NfZtauKcNy5",
+    "observacao": "RUA:\tEFIGENIO SALES VITOR, 71, MADRE GERTRUDES, BELO HORIZONTE, 30518280\tEM FRENTE AO 313"
+  },
+  {
+    "id": 1794490931696,
+    "endereco": "https://maps.app.goo.gl/6MdTX9bAm9sUnZ6f6",
+    "observacao": "RUA:\tELIZABETH, 162, CASA, COQUEIROS, BELO HORIZONTE, 30881010\tBH CELULAR"
+  },
+  {
+    "id": 1794490941264,
+    "endereco": "https://maps.app.goo.gl/YHnN415629pKDyMt6",
+    "observacao": "RUA:\tENA, 72, BERNARDO MONTEIRO, CONTAGEM, 32010820"
+  },
+  {
+    "id": 1794490954960,
+    "endereco": "https://maps.app.goo.gl/A1kVketL2gvnRdqp6",
+    "observacao": "VIA:\tEXPRESSA DE CONTAGEM, 397, AGUA BRANCA, CONTAGEM, 32370485\tFogosmania Passionate For Pyrotechnics"
+  },
+  {
+    "id": 1794490966880,
+    "endereco": "https://maps.app.goo.gl/6VLmCakjZdotEQtD8",
+    "observacao": "VIA:\tExpressa Francisco Cleuton Lopes, 461, Casa , Água Branca, CONTAGEM, 32370485\tAO LADO DO ESTACIONAMENTO PARE PARK"
+  },
+  {
+    "id": 1794490978304,
+    "endereco": "https://maps.app.goo.gl/KvKRuzvYyrbbPv6j9",
+    "observacao": "VIA:\tExpressa Francisco Cleuton Lopes, 945, Água Branca, CONTAGEM, 32370485\tLOCALIZA SEMINOVOS"
+  },
+  {
+    "id": 1794490989872,
+    "endereco": "https://maps.app.goo.gl/aHkGK92qgjFiMsQb6",
+    "observacao": "RUA:\tF, 68, CASA, CONJUNTO AGUA BRANCA, CONTAGEM, 32370400\tRua Martius Pereira Bernardino, 68"
+  },
+  {
+    "id": 1794491002936,
+    "endereco": "https://maps.app.goo.gl/3QdH9wFzHcVY84Wp6",
+    "observacao": "RUA:\tFlor de Lis, 49, Buganvile I, CONTAGEM, 32056450\tEM FRENTE A IGREJA BATISTA"
+  },
+  {
+    "id": 1794491013456,
+    "endereco": "https://maps.app.goo.gl/Fg7k6pg4hP2HchYg9",
+    "observacao": "RUA:\tG, 51, Casa, Vila Militar, CONTAGEM, 32044464\tQUINTAS COLONIAIS"
+  },
+  {
+    "id": 1794491023760,
+    "endereco": "https://maps.app.goo.gl/mLqsGf8fgB6e5aKx8",
+    "observacao": "RUA:\tGilberto Freire, 147, Bonsucesso (Barreiro), BELO HORIZONTE, 30622340"
+  },
+  {
+    "id": 1794491041903,
+    "endereco": "https://maps.app.goo.gl/eMxY3ngv9TQ3td7b9",
+    "observacao": "RUA:\tIguaçu, 320, Casa, Senhora de Fátima, BETIM, 32672244\tAO LADO DO NÚMERO 137"
+  },
+  {
+    "id": 1794491052551,
+    "endereco": "https://maps.app.goo.gl/gMSWr9yk2ac1oX8C9",
+    "observacao": "RUA:\tInaia, 77, Salomé, BETIM, 32603300\tEM FRENTE AO NÚMERO 11 DA RUA ITAPI"
+  },
+  {
+    "id": 1794491064287,
+    "endereco": "https://maps.app.goo.gl/qrhUq6toWMQJGuBK6",
+    "observacao": "RUA:\tJEOVA JIRE, 85, ITACOLOMI, BETIM, 32672622"
+  },
+  {
+    "id": 1794491076047,
+    "endereco": "https://maps.app.goo.gl/E3Y6C2CXr7XgPLnU7",
+    "observacao": "RUA:\tJOAO ALFREDO, 3800, HORTO, BELO HORIZONTE, 31015012"
+  },
+  {
+    "id": 1794491089247,
+    "endereco": "https://maps.app.goo.gl/kMHDtdF5sK8sn7X28",
+    "observacao": "AVENIDA:\tJoão César de Oliveira, 4205, Novo Eldorado, CONTAGEM, 32341000\tCar Parts"
+  },
+  {
+    "id": 1794491105167,
+    "endereco": "https://maps.app.goo.gl/a6zsSL5hKZpUewXy8",
+    "observacao": "AVENIDA:\tJOAO GOMES CARDOSO, 3054, CASA, MORADA NOVA, CONTAGEM, 32143553\tDo lado do supermercado Classe A em frente a distribuido"
+  },
+  {
+    "id": 1794491116479,
+    "endereco": "https://maps.app.goo.gl/Y17FxqUzJrsxr6Ko7",
+    "observacao": "RUA:\tJOSE FRANCISCO GUARACI, 58, 203, NOVO HORIZONTE, BETIM, 32606014"
+  },
+  {
+    "id": 1794491127135,
+    "endereco": "https://maps.app.goo.gl/1MEKyuLFxQDzr3d46",
+    "observacao": "RUA:\tJOSE MARIA DE SANTANA, 32, FONTE GRANDE, CONTAGEM, 32013490"
+  },
+  {
+    "id": 1794491138479,
+    "endereco": "https://maps.app.goo.gl/yULfp8Y2N7RWFU8e7",
+    "observacao": "AVENIDA:\tJUIZ MARCO TULIO ISAAC, 9135, 6 - AP 302, NOVA BADEN, BETIM, 32676235\tCondomínio Parque Caiapós"
+  },
+  {
+    "id": 1794491152671,
+    "endereco": "https://maps.app.goo.gl/uQZPnZxMxFjDjaKq6",
+    "observacao": "AVENIDA:\tJuiz Marco Túlio Isaac, 9135, Ap 102 B22, Nova Baden, BETIM, 32676235\tCondomínio Parque Caiapós"
+  },
+  {
+    "id": 1794491166655,
+    "endereco": "https://maps.app.goo.gl/qBNeNh72C7U4vLFN9",
+    "observacao": "RUA:\tJúlio Mesquita, 136, Itaipu (Barreiro), BELO HORIZONTE, 30692460\tLOJA DO RENATO"
+  },
+  {
+    "id": 1794491178767,
+    "endereco": "https://maps.app.goo.gl/byon5hKX3L1KbQ5Q7",
+    "observacao": "RUA:\tK, 232, CASA, Conjunto Água Branca, CONTAGEM, 32370410"
+  },
+  {
+    "id": 1794491189702,
+    "endereco": "https://maps.app.goo.gl/zLcszy6eF3ri7uHR7",
+    "observacao": "RUA:\tMaria Joana de Jesus, 397, Petrópolis, BETIM, 32655016"
+  },
+  {
+    "id": 1794491200230,
+    "endereco": "https://maps.app.goo.gl/8mPPrbGp1oQmgZGv7",
+    "observacao": "RUA:\tMaria Margarida, 29, Amazonas, CONTAGEM, 32240000"
+  },
+  {
+    "id": 1794491210238,
+    "endereco": "https://maps.app.goo.gl/gimzJ4iuTDAiKp4L9",
+    "observacao": "RODOVIA:\tMG050, 0, CONDOMÍNIO, Açude, BETIM, 32625098\tCondomínio Gran Royalle Betim · ALAMEDA"
+  },
+  {
+    "id": 1794491221566,
+    "endereco": "https://maps.app.goo.gl/1TM1hzpkMacWYKfe9",
+    "observacao": "RUA:\tMONTES CLAROS, 400, ALVORADA, CONTAGEM, 32042130\tAO LADO DO 484"
+  },
+  {
+    "id": 1794491231230,
+    "endereco": "https://maps.app.goo.gl/DtB6JiBH7ckoHrr59",
+    "observacao": "RUA:\tNATAL VERONES, 688, TRES BARRAS, CONTAGEM, 32041090\tESQUINA DA RUA PRIMO HORÁRCIO"
+  },
+  {
+    "id": 1794491242326,
+    "endereco": "https://maps.app.goo.gl/1GZMxDBzmDjQr3CY8",
+    "observacao": "RUA:\tOITO, 35, AP 201 OU ESCRITÓRIO, INCONFIDENTES, CONTAGEM, 32260040\t R. Cel. Procópio, 35"
+  },
+  {
+    "id": 1794491252718,
+    "endereco": "https://maps.app.goo.gl/iYNFk9oTjKTwshZ5",
+    "observacao": "RUA:\tPARA DE MINAS, 1065, BRASILEIA, BETIM, 32600444\tTh Auto Center"
+  },
+  {
+    "id": 1794491261742,
+    "endereco": "https://maps.app.goo.gl/NeduUgWnUezFLrnA7",
+    "observacao": "AVENIDA:\tPau Brasil, 457, Serra Dourada (Parque Durval de Barros), IBIRITE, 32425515"
+  },
+  {
+    "id": 1794491272382,
+    "endereco": "https://maps.app.goo.gl/HLRU8KGxcJJNh9r19",
+    "observacao": "RUA:\tPORTUGAL, 1037, GLORIA, CONTAGEM, 32340010"
+  },
+  {
+    "id": 1794491282846,
+    "endereco": "https://maps.app.goo.gl/BdMRTenSK8oASz1z8",
+    "observacao": "RUA:\tProfessor Otílio Macedo, 12, Pilar, BELO HORIZONTE, 30390160\tFaculdade e Hospital Veterinário Arnaldo - Campus Pilar"
+  },
+  {
+    "id": 1794491295790,
+    "endereco": "https://maps.app.goo.gl/RUvjXv1TngbgvewJ7",
+    "observacao": "RUA:\tQUARENTA E SEIS, 15, CASA, NOVA GAMELEIRA, BELO HORIZONTE, 30510205\tR. Nelson Campos, 15 - Nova Gameleira"
+  },
+  {
+    "id": 1794491306270,
+    "endereco": "https://maps.app.goo.gl/qy8NW6Ar5gj1DHsX9",
+    "observacao": "RUA:\tRIO GRANDE DO SUL, 373, CASA, VILA RICA, SABARA, 34585260\tSUPER GÁS MARILENE DEPÓSITO DE GÁS"
+  },
+  {
+    "id": 1794491316910,
+    "endereco": "https://maps.app.goo.gl/s9jsqfrzsfzm2374A",
+    "observacao": "RUA:\tRua Aurélio Lopes, 106, 301, Diamante (Barreiro), BELO HORIZONTE, 30626002\tAO LADO DO 320"
+  },
+  {
+    "id": 1794491328942,
+    "endereco": "https://maps.app.goo.gl/SvPiRDdLAj6A7yc96",
+    "observacao": "RUA:\tSANTIAGO, 121, JARDIM DAS ALTEROSAS - 1ª SECAO, BETIM, 32670656"
+  },
+  {
+    "id": 1794491340590,
+    "endereco": "https://maps.app.goo.gl/3sH1nGzR7TDxVCEF8",
+    "observacao": "RUA:\tSAO DIMAS, 302, CASA, PRESIDENTE KENNEDY, BETIM, 32665670"
+  },
+  {
+    "id": 1794491350453,
+    "endereco": "https://maps.app.goo.gl/WxeMfSMTjd7FvXSc6",
+    "observacao": "RUA:\tSAO MATEUS, 55, PRESIDENTE KENNEDY, BETIM, 32665674"
+  },
+  {
+    "id": 1794491360750,
+    "endereco": "https://maps.app.goo.gl/xZKD1fhZSy9L838a8",
+    "observacao": "RUA:\tSAO SALVADOR, 252, A, CACHOEIRA, BETIM, 32602384"
+  },
+  {
+    "id": 1794491372461,
+    "endereco": "https://maps.app.goo.gl/VXwQwJQAaLDjmfKz8",
+    "observacao": "RUA:\tSAO SALVADOR, 32, CASA, CACHOEIRA, BETIM, 32602384\t32 ESTÁ DO LADO IMPAR AO LADO DO 41 - EM FRENTE AO B"
+  },
+  {
+    "id": 1794491385893,
+    "endereco": "https://maps.app.goo.gl/34PGtLUs27kxv6d38",
+    "observacao": "RUA:\tSETECENTOS E SETENTA E UM, 222, APTO 301, SANTA CRUZ (BARREIRO), BELO HORIZONTE, 3064419"
+  },
+  {
+    "id": 1794491398037,
+    "endereco": "https://maps.app.goo.gl/gVjqJ5rQzm1M7c916",
+    "observacao": "RUA:\tTAMBU, 1018, A, JARDIM LAGUNA, CONTAGEM, 32140190"
+  },
+  {
+    "id": 1794491409053,
+    "endereco": "https://maps.app.goo.gl/eUYojUaptCHjeMLz7",
+    "observacao": "AVENIDA:\tTHEODORO MODESTO DA SILVA, 318, CASA 318, BERNARDO MONTEIRO, CONTAGEM, 32013050"
+  },
+  {
+    "id": 1794491424117,
+    "endereco": "https://maps.app.goo.gl/1aLAPLe5H99Ecxw39",
+    "observacao": "RUA:\tTrês, 201, Bloco 77, Riacho das Pedras, CONTAGEM, 32280640\tO BLOCO JÁ É O NÚMERO NA RUA"
+  },
+  {
+    "id": 1794491543748,
+    "endereco": "https://maps.app.goo.gl/GkVudU7ayhDkqy6R9",
+    "observacao": "RUA:\tTrês, 5 - Monte Castelo, Contagem - MG, 32285-195\tCondomínio Residencial Bosque dos Jacarandas"
+  },
+  {
+    "id": 1794491554356,
+    "endereco": "https://maps.app.goo.gl/afVfsECEu3B2whAb9",
+    "observacao": "RUA:\tUM MIL SEISCENTOS E TRES, 47, CASA, AGUAS CLARAS, BELO HORIZONTE, 30670750"
+  },
+  {
+    "id": 1794491565692,
+    "endereco": "https://maps.app.goo.gl/DckXeSCXkXst1Ud67",
+    "observacao": "RUA:\tUm, 300, Dmf Galpao, Do Comércio, CONTAGEM, 32152002\tDMF - Distribuidora Mineira de Filtros Automotivos"
+  },
+  {
+    "id": 1794491577572,
+    "endereco": "https://maps.app.goo.gl/1vLb5sk55Q7o1TiDA",
+    "observacao": "AVENIDA:\tVEREADOR CICERO ILDEFONSO, 902, JOAO PINHEIRO, BELO"
+  },
+  {
+    "id": 1794491590084,
+    "endereco": "https://maps.app.goo.gl/DckXeSCXkXst1Ud67",
+    "observacao": "RUA:\tUm, 300, Dmf Galpao, Do Comércio, CONTAGEM, 32152002\tDMF - Distribuidora Mineira de Filtros Automotivos"
+  },
+  {
+    "id": 1794491649131,
+    "endereco": "https://maps.app.goo.gl/Z2KqUqxiFFddQshL7",
+    "observacao": "RUA:\tVINTE E TRES, 242, MILANEZ, CONTAGEM, 32143240"
+  },
+  {
+    "id": 1794491659227,
+    "endereco": "https://maps.app.goo.gl/4xNPzkY4N97uzXuh6",
+    "observacao": "AVENIDA:\tWaldyr Soeiro Emrich, 4659, Diamante (Barreiro), BELO HORIZONTE, 30660560\tDE FRENTE A LUKINHA AUTOMOVEIS"
+  },
+  {
+    "id": 1794491671107,
+    "endereco": "https://maps.app.goo.gl/MoEcjcbwdeKRcTxx9",
+    "observacao": "AVENIDA:\tPadre José Maurício, 146, Vista Alegre, BELO HORIZONTE, 30514000\tDE FRENTE A DROBARIA PRINCESA"
+  },
+  {
+    "id": 1794491683115,
+    "endereco": "https://maps.app.goo.gl/D1Avx1btcN8AgqQx6",
+    "observacao": "AVENIDA:\tPadre Airton Freire de Lima, 78, Guanabara, BETIM, 32667090\tESQUINA DA RUA JOAQUIM CESARIO RESENDE 374"
+  },
+  {
+    "id": 1794491694435,
+    "endereco": "https://maps.app.goo.gl/oCLXKaTKX5puxDJ96",
+    "observacao": "RUA:\tJosé Gonçalves, 436, Novo Horizonte, BETIM, 32606100\tEM FRENTE AO 636"
+  },
+  {
+    "id": 1794491705691,
+    "endereco": "https://maps.app.goo.gl/rvwvbv4C9i6PGeQ46",
+    "observacao": "AVENIDA:\tTheodoro Modesto da Silva, 160, Casa, Bernardo Monteiro, CONTAGEM, 32013050"
+  },
+  {
+    "id": 1794491715819,
+    "endereco": "https://maps.app.goo.gl/D3GejN1WFEPD3r6s6?",
+    "observacao": "RUA:\tIpê, 70, Casa, Sol Nascente (Parque Durval de Barros), IBIRITE, 32423240"
+  },
+  {
+    "id": 1794491725955,
+    "endereco": "https://maps.app.goo.gl/8Gk87QmTD8Z6Lc2Y7",
+    "observacao": "RUA:\tMaria das Mercês e Silva, 276, Tirol (Barreiro), BELO HORIZONTE, 30662260"
+  },
+  {
+    "id": 1794491738595,
+    "endereco": "https://maps.app.goo.gl/gefJhoRDjULf7z6AA",
+    "observacao": "AVENIDA:\tWarley Aparecido Martins, 945, Solar do Barreiro (Barreiro), BELO HORIZONTE, 30670370"
+  },
+  {
+    "id": 1794491749515,
+    "endereco": "https://maps.app.goo.gl/7BaTnY3GqAnNX3sp9",
+    "observacao": "RUA:\tSeis, 10, Casa, Chácaras Cotia, CONTAGEM, 32183075"
+  },
+  {
+    "id": 1794491762915,
+    "endereco": "https://maps.app.goo.gl/hSx5BsBdJuP3KmcH8",
+    "observacao": "RUA:\tMaria Olinda Nascimento, 296, Portao Pre, Linda Vista, CONTAGEM, 32041630"
+  },
+  {
+    "id": 1794491775427,
+    "endereco": "https://maps.app.goo.gl/jYvL1WDLCU3uD2nq9",
+    "observacao": "AVENIDA:\tCOLETORA ARTUR TRINDADE, 667, SRA. DE FÁTIMA, BETIM, 32672315\tFICA AO LADO DESTE SUPERMERCADO LUNA"
+  },
+  {
+    "id": 1794491787027,
+    "endereco": "https://maps.google.com/maps?q=-19.967932,-",
+    "observacao": "RUA:\tUm, 190, Apto 304, Santa Maria, CONTAGEM, 32240222"
+  },
+  {
+    "id": 1794491798682,
+    "endereco": "https://maps.app.goo.gl/pPnDrwEP31tYyrHU6",
+    "observacao": "RUA:\tUM, 25, CASA, MONTE CASTELO, CONTAGEM, 32285192"
+  },
+  {
+    "id": 1794491810274,
+    "endereco": "https://maps.app.goo.gl/CjQ77w3BbMxqNb417",
+    "observacao": "RUA:\tAlfa, 262, Bloco 12 Apto 24, Industrial, CONTAGEM, 32230210"
+  },
+  {
+    "id": 1794491819202,
+    "endereco": "https://maps.app.goo.gl/M4ahcFpip9CacJ86A",
+    "observacao": "RODOVIA:\tAnel Rodoviário Celso Mello Azevedo, 233, Nazaré, BELO HORIZONTE, 31990055"
+  },
+  {
+    "id": 1794491830778,
+    "endereco": "https://maps.app.goo.gl/GeeR8Da4sYmUc7VPA",
+    "observacao": "RUA:\tNERY LUIZ DO PRADO, 47, CASA, EUROPA, CONTAGEM, 32043008\tNOME ANTIGO DA RUA É LIVERPOOL"
+  },
+  {
+    "id": 1794491840922,
+    "endereco": "https://maps.app.goo.gl/9iW63AyhTQjWavsH8",
+    "observacao": "RUA:\tUm, 20, Apto 202, Riacho das Pedras, CONTAGEM, 32280630"
+  },
+  {
+    "id": 1794491852442,
+    "endereco": "https://maps.app.goo.gl/h2MN191UVkEWAeCt6",
+    "observacao": "RUA:\tMauro Gonçalves, 145, Casa , Marilândia, BELO HORIZONTE, 30692673\tEM FRENTE AO 286"
+  },
+  {
+    "id": 1794491864474,
+    "endereco": "https://maps.app.goo.gl/3XHtcVHkA9tSJiFJ6",
+    "observacao": "AVENIDA:\tCOUNTRY CLUBE DE BELO HORIZONTE, 710, CIDADE JARDIM TAQUARIL, BELO HORIZONTE, 30285658\tCASA VERMELHA APOS O CURRAL DA SERRA,"
+  },
+  {
+    "id": 1794491874226,
+    "endereco": "https://maps.app.goo.gl/DFybSZQ8WxaszJqu7",
+    "observacao": "RUA:\tAntônio de Almeida Junior, 105, Diamante (Barreiro), BELO HORIZONTE, 30627175"
+  },
+  {
+    "id": 1794491885314,
+    "endereco": "https://maps.app.goo.gl/yRSxiLNtYiykjEVS9",
+    "observacao": "RUA:\tEphigênio Salles Víctor, 37, Madre Gertrudes, BELO HORIZONTE, 30518280\tJUNTO AO NÚMERO 81"
+  },
+  {
+    "id": 1794491896746,
+    "endereco": "https://maps.app.goo.gl/pEPnumj3GepyCeJ5A",
+    "observacao": "Via Expressa:\tFrancisco Cleuton Lopes, 3115, Galpão 4/D, Água Branca, CONTAGEM, 32370485"
+  },
+  {
+    "id": 1794491908930,
+    "endereco": "https://maps.app.goo.gl/xurVaKLdKQCLq7sy6",
+    "observacao": "RUA:\tBernardo Monteiro, 651, Casa, Santa Edwiges, CONTAGEM, 32040250\tCASA DE LADRILHO AZUL"
+  },
+  {
+    "id": 1794491923778,
+    "endereco": "https://maps.app.goo.gl/AVCo8g5yCdVFkQh19",
+    "observacao": "RUA:\tFRANCISCO OLIVIERI, 128, BARREIRO, BELO HORIZONTE, 30640190"
+  },
+  {
+    "id": 1794491935578,
+    "endereco": "https://maps.app.goo.gl/oEdpfSU89eDUfeMT6",
+    "observacao": "RUA:\tBernardo Monteiro, 928, Centro, CONTAGEM, 32017170"
+  },
+  {
+    "id": 1794491946130,
+    "endereco": "https://maps.app.goo.gl/LDdPdsavPgEp4n1B8",
+    "observacao": "RODOVIA:\tBR-040, 5267, Chácaras Boa Vista, CONTAGEM, 32150193"
+  },
+  {
+    "id": 1794491957170,
+    "endereco": "https://maps.app.goo.gl/fnZAwHJjt4i1pXbD9",
+    "observacao": "RUA:\tLúcia Maria Pereira Diniz, 237, Central Parque, CONTAGEM, 32017030"
   }
 ]
